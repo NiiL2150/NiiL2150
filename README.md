@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiiL2150
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning .NET (specifically C# and desktop applications)
+- 🌱 I’m currently learning .NET (specifically C# and ASP.NET)
 - 💞️ I’m looking to collaborate on noting rn
 - 📫 How to reach me: idk
 
