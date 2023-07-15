@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=2000&pause=500&color=2CF700&multiline=true&width=500&height=110&lines=A+whole+bunch+of+turbulence;A+whole+bunch+of+turbulence;Everybody+strap+your+seatbelts;Cause+theres+about+to+be+some+turbulence." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=1000&pause=100&color=2CF700&multiline=true&width=435&height=110&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Typing SVG" /></a>
 
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮, 𝓘'𝓶 𝓹𝓲𝓷𝓸𝓶𝓸</h1>
 <h3 align="center">𝒜 𝓃𝑜𝓉 𝓇𝑒𝒶𝓁𝓁𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝒜𝓏𝑒𝓇𝒷𝒶𝒾𝒿𝒶𝓃</h3>
